@@ -11,6 +11,8 @@ Sales Conversion Optimization (Kaggle): https://www.kaggle.com/datasets/loveall/
 The dataset used for analysis is a modified version of the Sales Conversion Optimization on Kaggle.
 
 ## Tools
+Excel
+Google Slides
 
 ## Methodology
 
